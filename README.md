@@ -8,7 +8,7 @@ A versatile android chatting application based on Flutter <br/>
 ✔Real-time chatting<br/>
 ✔Sharing various kinds of files including image, video, gif etc.<br/>
 ✔Sharing audio with built-in recorder<br/>
-✔Built-in audio and video player with PAUSE and RESUME control
+✔Built-in audio and video player with PAUSE and RESUME control <br/>
 ✔Cached media (can be viewed without Internet)<br/>
 ✔Auto-scrolling in chat screen<br/>
 ✔User active status (online/offline)<br/><br/>
